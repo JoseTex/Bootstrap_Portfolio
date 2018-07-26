@@ -43,6 +43,11 @@
     background: #4aaaa5;
    }
 
+   #psychic {
+       height: 300px;
+       width: 300px;
+   }
+
    .size {
     float: left;
     max-width: 100%;
